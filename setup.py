@@ -18,8 +18,8 @@ DESCRIPTION = 'The human readable id generator library for python3'
 URL = 'https://github.com/hnimminh/human-readable-id'
 EMAIL = 'hnimminh@outlook.com'
 AUTHOR = 'Minh Minh'
-REQUIRES_PYTHON = '>=3.6.0'
-VERSION = '0.3.0'
+REQUIRES_PYTHON = '>=3.12.0'
+VERSION = '0.4.0'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
@@ -121,12 +121,6 @@ setup(
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python',
         'Programming Language :: Python :: 3',
-        'Programming Language :: Python :: 3.6',
-        'Programming Language :: Python :: 3.7',
-        'Programming Language :: Python :: 3.8',
-        'Programming Language :: Python :: 3.9',
-        'Programming Language :: Python :: 3.10',
-        'Programming Language :: Python :: 3.11',
         'Programming Language :: Python :: 3.12',
         'Programming Language :: Python :: 3.13',
         'Programming Language :: Python :: Implementation :: CPython',
